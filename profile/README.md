@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/luduvo-devhub/.github/blob/main/gh-assets/wordmark.png?raw=true" alt="ldh wordmark" height="256"/>
+  <img src="https://github.com/luduvo-devhub/.github/blob/main/gh-assets/logo.png?raw=true" alt="ldh logo" height="256"/>
 </p>
 
 ---
